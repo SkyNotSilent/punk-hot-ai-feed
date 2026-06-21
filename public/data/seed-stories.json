@@ -1,0 +1,199 @@
+[
+  {
+    "id": "jumper-anthropic",
+    "publishedAt": "2026-06-21T10:30:00+08:00",
+    "source": "多信源聚合",
+    "category": "行业动态",
+    "theme": "人才与科学智能体",
+    "importance": 0.96,
+    "title": "AlphaFold 核心科学家 John Jumper 加入 Anthropic",
+    "summary": "顶级 AI 科学家从 DeepMind 转向 Anthropic，人才流动背后是基础模型、安全研究和科学智能体方向的重新排队。",
+    "reason": "这不是普通跳槽。AlphaFold 团队的关键人物进入大模型公司，说明科学发现型 AI 和通用智能体正在更深地合流。",
+    "tags": ["Anthropic", "DeepMind", "科学智能体"],
+    "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=900&q=80",
+    "userSignals": { "saves": 17, "clicks": 82 },
+    "sources": [
+      { "sourceId": "anthropic-news", "name": "Anthropic News", "type": "official_blog", "publishedAt": "2026-06-21T09:40:00+08:00", "isPrimary": true, "independent": true, "originalUrl": "https://www.anthropic.com/news" },
+      { "sourceId": "aihot-featured", "name": "AI HOT 精选", "type": "rss", "publishedAt": "2026-06-21T10:30:00+08:00", "isPrimary": false, "independent": true, "originalUrl": "https://aihot.virxact.com/" },
+      { "sourceId": "the-decoder", "name": "The Decoder", "type": "media", "publishedAt": "2026-06-21T11:10:00+08:00", "isPrimary": false, "independent": true, "originalUrl": "https://the-decoder.com/" }
+    ],
+    "originalLinks": [
+      { "label": "Anthropic News", "url": "https://www.anthropic.com/news" },
+      { "label": "AI HOT", "url": "https://aihot.virxact.com/" }
+    ]
+  },
+  {
+    "id": "tabbit-free-models",
+    "publishedAt": "2026-06-21T19:05:00+08:00",
+    "source": "产品公告聚合",
+    "category": "产品发布",
+    "theme": "模型入口",
+    "importance": 0.84,
+    "title": "模型入口价格战升温，多模型工作台开始打包旗舰模型",
+    "summary": "多模型产品把 GPT、Claude、Gemini 以及国内模型放入同一入口，短期免费策略会直接冲击多订阅用户的使用习惯。",
+    "reason": "模型能力正在商品化，入口、计费和使用体验才是下一轮竞争主轴。",
+    "tags": ["模型入口", "产品更新", "免费策略"],
+    "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=900&q=80",
+    "userSignals": { "saves": 10, "clicks": 49 },
+    "sources": [
+      { "sourceId": "aihot-featured", "name": "AI HOT 精选", "type": "rss", "publishedAt": "2026-06-21T19:05:00+08:00", "isPrimary": false, "independent": true, "originalUrl": "https://aihot.virxact.com/" },
+      { "sourceId": "x-placeholder", "name": "X/Twitter 公开源预留", "type": "x_public_placeholder", "publishedAt": "2026-06-21T18:50:00+08:00", "isPrimary": false, "independent": true, "originalUrl": "" }
+    ],
+    "originalLinks": [{ "label": "AI HOT", "url": "https://aihot.virxact.com/" }]
+  },
+  {
+    "id": "openai-agent-evals",
+    "publishedAt": "2026-06-21T16:20:00+08:00",
+    "source": "OpenAI News",
+    "category": "模型发布",
+    "theme": "Agent 评测",
+    "importance": 0.9,
+    "title": "Agent 评测从单轮问答转向长任务执行",
+    "summary": "新一代模型评测更关注工具调用、状态保持、错误恢复和真实任务完成率，单纯刷榜的解释力继续下降。",
+    "reason": "企业采购模型时会越来越看任务闭环，而不是只看通用基准。",
+    "tags": ["OpenAI", "Agent", "评测"],
+    "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?auto=format&fit=crop&w=900&q=80",
+    "userSignals": { "saves": 14, "clicks": 66 },
+    "sources": [
+      { "sourceId": "openai-news", "name": "OpenAI News", "type": "official_blog", "publishedAt": "2026-06-21T16:20:00+08:00", "isPrimary": true, "independent": true, "originalUrl": "https://openai.com/news/" },
+      { "sourceId": "venturebeat-ai", "name": "VentureBeat AI", "type": "media", "publishedAt": "2026-06-21T17:10:00+08:00", "isPrimary": false, "independent": true, "originalUrl": "https://venturebeat.com/category/ai/" }
+    ],
+    "originalLinks": [{ "label": "OpenAI News", "url": "https://openai.com/news/" }]
+  },
+  {
+    "id": "deep-agents",
+    "publishedAt": "2026-06-20T20:24:00+08:00",
+    "source": "开源社区",
+    "category": "技巧观点",
+    "theme": "Agent 工程",
+    "importance": 0.78,
+    "title": "开源教程把 LangGraph、文件系统和子 Agent 串成完整实战路径",
+    "summary": "教程把 Agent 状态管理、虚拟文件系统、子 Agent 和 Skills 复用串成完整开发路径，适合直接搭协作型 Agent。",
+    "reason": "Agent 工程开始进入模板化阶段，谁能沉淀方法论，谁就能更快复制交付。",
+    "tags": ["Agent", "LangGraph", "开源教程"],
+    "image": "https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=900&q=80",
+    "userSignals": { "saves": 13, "clicks": 51 },
+    "sources": [
+      { "sourceId": "github-ai-ml", "name": "GitHub AI and ML Blog", "type": "rss", "publishedAt": "2026-06-20T20:24:00+08:00", "isPrimary": false, "independent": true, "originalUrl": "https://github.blog/ai-and-ml/" },
+      { "sourceId": "huggingface-blog", "name": "Hugging Face Blog", "type": "official_blog", "publishedAt": "2026-06-20T21:00:00+08:00", "isPrimary": false, "independent": true, "originalUrl": "https://huggingface.co/blog" }
+    ],
+    "originalLinks": [{ "label": "GitHub AI and ML", "url": "https://github.blog/ai-and-ml/" }]
+  },
+  {
+    "id": "microsoft-model-broker",
+    "publishedAt": "2026-06-20T15:01:00+08:00",
+    "source": "云平台观察",
+    "category": "行业动态",
+    "theme": "模型分发",
+    "importance": 0.82,
+    "title": "云平台继续变成跨模型、跨地区的基础交易层",
+    "summary": "大型云厂商一边分销头部闭源模型，一边测试更多地区模型供给，企业采购入口的价值继续上升。",
+    "reason": "模型供应链不只看谁训练模型，也看谁控制企业采购入口。",
+    "tags": ["Microsoft", "DeepSeek", "模型分发"],
+    "image": "https://images.unsplash.com/photo-1504639725590-34d0984388bd?auto=format&fit=crop&w=900&q=80",
+    "userSignals": { "saves": 9, "clicks": 42 },
+    "sources": [
+      { "sourceId": "microsoft-ai", "name": "Microsoft AI Blog", "type": "official_blog", "publishedAt": "2026-06-20T14:00:00+08:00", "isPrimary": true, "independent": true, "originalUrl": "https://blogs.microsoft.com/ai/" },
+      { "sourceId": "aws-ml-blog", "name": "AWS Machine Learning Blog", "type": "official_blog", "publishedAt": "2026-06-20T15:01:00+08:00", "isPrimary": false, "independent": true, "originalUrl": "https://aws.amazon.com/blogs/machine-learning/" }
+    ],
+    "originalLinks": [{ "label": "Microsoft AI Blog", "url": "https://blogs.microsoft.com/ai/" }]
+  },
+  {
+    "id": "spatial-reasoning-tools",
+    "publishedAt": "2026-06-20T06:54:00+08:00",
+    "source": "MarkTechPost",
+    "category": "论文研究",
+    "theme": "空间推理",
+    "importance": 0.86,
+    "title": "免训练空间推理框架把代码变成视觉动作接口",
+    "summary": "研究把代码作为空间动作接口，让模型组合深度估计和分割工具完成 3D 判断，多个基准上高于无工具基线。",
+    "reason": "视觉推理突破不一定来自重新训练，也可能来自工具接口设计。",
+    "tags": ["NVIDIA", "空间推理", "具身智能"],
+    "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?auto=format&fit=crop&w=900&q=80",
+    "userSignals": { "saves": 8, "clicks": 39 },
+    "sources": [
+      { "sourceId": "arxiv-cs-ai", "name": "arXiv cs.AI", "type": "paper", "publishedAt": "2026-06-20T05:10:00+08:00", "isPrimary": true, "independent": true, "originalUrl": "https://export.arxiv.org/rss/cs.AI" },
+      { "sourceId": "marktechpost", "name": "MarkTechPost", "type": "media", "publishedAt": "2026-06-20T06:54:00+08:00", "isPrimary": false, "independent": true, "originalUrl": "https://www.marktechpost.com/" }
+    ],
+    "originalLinks": [{ "label": "arXiv cs.AI", "url": "https://export.arxiv.org/rss/cs.AI" }]
+  },
+  {
+    "id": "robot-factory-scale",
+    "publishedAt": "2026-06-20T05:55:00+08:00",
+    "source": "机器人产业观察",
+    "category": "行业动态",
+    "theme": "具身智能制造",
+    "importance": 0.74,
+    "title": "人形机器人公司进入规模制造信号期",
+    "summary": "具身智能公司开始把重点从演示视频转向生产、测试、维护链路，数量、良率和迭代速度成为新指标。",
+    "reason": "具身智能的竞争会从视频演示转向工厂里的真实规模。",
+    "tags": ["机器人", "制造", "具身智能"],
+    "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=900&q=80",
+    "userSignals": { "saves": 7, "clicks": 31 },
+    "sources": [
+      { "sourceId": "the-decoder", "name": "The Decoder", "type": "media", "publishedAt": "2026-06-20T05:55:00+08:00", "isPrimary": false, "independent": true, "originalUrl": "https://the-decoder.com/" },
+      { "sourceId": "nvidia-ai", "name": "NVIDIA AI Blog", "type": "official_blog", "publishedAt": "2026-06-20T04:00:00+08:00", "isPrimary": false, "independent": true, "originalUrl": "https://blogs.nvidia.com/" }
+    ],
+    "originalLinks": [{ "label": "The Decoder", "url": "https://the-decoder.com/" }]
+  },
+  {
+    "id": "llm-gateway-selection",
+    "publishedAt": "2026-06-19T22:26:00+08:00",
+    "source": "工程博客聚合",
+    "category": "模型发布",
+    "theme": "LLM 网关",
+    "importance": 0.72,
+    "title": "LLM 网关选型开始围绕成本、延迟、合规和模型覆盖展开",
+    "summary": "团队在 OpenRouter、LiteLLM、自建代理之间比较时，重点从能否调用模型转向预算治理、审计和稳定性。",
+    "reason": "企业用模型越来越像用云服务，网关会成为预算和治理的关键位置。",
+    "tags": ["LLM 网关", "成本治理", "工程化"],
+    "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?auto=format&fit=crop&w=900&q=80",
+    "userSignals": { "saves": 12, "clicks": 36 },
+    "sources": [
+      { "sourceId": "github-ai-ml", "name": "GitHub AI and ML Blog", "type": "rss", "publishedAt": "2026-06-19T22:26:00+08:00", "isPrimary": false, "independent": true, "originalUrl": "https://github.blog/ai-and-ml/" },
+      { "sourceId": "aihot-all", "name": "AI HOT 全部", "type": "rss", "publishedAt": "2026-06-19T23:10:00+08:00", "isPrimary": false, "independent": true, "originalUrl": "https://aihot.virxact.com/feed/all.xml" }
+    ],
+    "originalLinks": [{ "label": "GitHub AI and ML", "url": "https://github.blog/ai-and-ml/" }]
+  },
+  {
+    "id": "agent-identity-lifecycle",
+    "publishedAt": "2026-06-19T20:00:00+08:00",
+    "source": "基础设施博客",
+    "category": "产品发布",
+    "theme": "Agent 身份管理",
+    "importance": 0.76,
+    "title": "Agent 基础设施开始解决身份、授权和资源清理",
+    "summary": "临时账号、细粒度权限和任务完成后的资源清理，正在成为企业部署 Agent 时绕不开的基础设施问题。",
+    "reason": "Agent 落地会先从权限、审计和生命周期管理这些朴素问题开始。",
+    "tags": ["Agent", "身份管理", "企业安全"],
+    "image": "https://images.unsplash.com/photo-1563986768609-322da13575f3?auto=format&fit=crop&w=900&q=80",
+    "userSignals": { "saves": 6, "clicks": 28 },
+    "sources": [
+      { "sourceId": "aws-ml-blog", "name": "AWS Machine Learning Blog", "type": "official_blog", "publishedAt": "2026-06-19T20:00:00+08:00", "isPrimary": true, "independent": true, "originalUrl": "https://aws.amazon.com/blogs/machine-learning/" },
+      { "sourceId": "microsoft-ai", "name": "Microsoft AI Blog", "type": "official_blog", "publishedAt": "2026-06-19T20:30:00+08:00", "isPrimary": false, "independent": true, "originalUrl": "https://blogs.microsoft.com/ai/" }
+    ],
+    "originalLinks": [{ "label": "AWS Machine Learning Blog", "url": "https://aws.amazon.com/blogs/machine-learning/" }]
+  },
+  {
+    "id": "chinese-ai-media-surge",
+    "publishedAt": "2026-06-18T18:30:00+08:00",
+    "source": "中文媒体聚合",
+    "category": "行业动态",
+    "theme": "中文 AI 生态",
+    "importance": 0.7,
+    "title": "中文 AI 媒体继续把模型、应用和资本事件聚合到同一叙事里",
+    "summary": "中文公开源对模型发布、应用创业和融资事件的响应速度快，适合作为英文官方源之外的市场温度层。",
+    "reason": "做中文 AI 热点站不能只接英文源，中文媒体能补上本土产品和应用侧变化。",
+    "tags": ["中文媒体", "资本", "应用趋势"],
+    "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=900&q=80",
+    "userSignals": { "saves": 5, "clicks": 25 },
+    "sources": [
+      { "sourceId": "qbitai", "name": "量子位", "type": "media", "publishedAt": "2026-06-18T18:30:00+08:00", "isPrimary": false, "independent": true, "originalUrl": "https://www.qbitai.com/" },
+      { "sourceId": "jiqizhixin", "name": "机器之心", "type": "media", "publishedAt": "2026-06-18T19:00:00+08:00", "isPrimary": false, "independent": true, "originalUrl": "https://www.jiqizhixin.com/" }
+    ],
+    "originalLinks": [
+      { "label": "量子位", "url": "https://www.qbitai.com/" },
+      { "label": "机器之心", "url": "https://www.jiqizhixin.com/" }
+    ]
+  }
+]

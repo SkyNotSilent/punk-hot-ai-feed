@@ -1,0 +1,1442 @@
+[
+  {
+    "id": "aws-ml-blog-introducing-web-search-on-amazon-bedrock-agentcore",
+    "publishedAt": "2026-06-19T14:15:24.000Z",
+    "source": "AWS Machine Learning Blog",
+    "category": "产品发布",
+    "theme": "云与工程",
+    "importance": 0.82,
+    "title": "Introducing Web Search on Amazon Bedrock AgentCore",
+    "summary": "Web Search on Amazon Bedrock AgentCore is now generally available. In this post, we walk through what makes Web Search on Amazon Bedrock AgentCore different, why it matters, and how to wire it in with a few lines of code.",
+    "reason": "该条目来自已配置公开信息源，进入聚合流后会按信源权重、新鲜度和来源链路重新评分。",
+    "tags": [
+      "云与工程",
+      "official blog",
+      "en"
+    ],
+    "image": "",
+    "userSignals": {
+      "saves": 0,
+      "clicks": 0
+    },
+    "sources": [
+      {
+        "sourceId": "aws-ml-blog",
+        "name": "AWS Machine Learning Blog",
+        "type": "official_blog",
+        "publishedAt": "2026-06-19T14:15:24.000Z",
+        "isPrimary": true,
+        "independent": true,
+        "originalUrl": "https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-agentcore/"
+      }
+    ],
+    "originalLinks": [
+      {
+        "label": "AWS Machine Learning Blog",
+        "url": "https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-agentcore/"
+      }
+    ],
+    "score": 65,
+    "scoreBreakdown": {
+      "sourceCount": 5,
+      "sourceWeight": 16.8,
+      "freshness": 12,
+      "primarySource": 14,
+      "crossVerification": 5,
+      "importance": 12.3,
+      "userFeedback": 0
+    }
+  },
+  {
+    "id": "aws-ml-blog-accelerate-campaign-workflow-with-insights-from-adobe-marketing-agent-for-amazon",
+    "publishedAt": "2026-06-19T14:05:04.000Z",
+    "source": "AWS Machine Learning Blog",
+    "category": "模型发布",
+    "theme": "云与工程",
+    "importance": 0.82,
+    "title": "Accelerate campaign workflow with insights from Adobe Marketing Agent for Amazon Quick",
+    "summary": "This post shows how to enable Adobe Marketing Agent for Amazon Quick using a Model Context Protocol (MCP). We walk you through how to configure the integration, authenticate using your Adobe credentials, and get the latest insights in Amazon Quick. The sample ",
+    "reason": "该条目来自已配置公开信息源，进入聚合流后会按信源权重、新鲜度和来源链路重新评分。",
+    "tags": [
+      "云与工程",
+      "official blog",
+      "en"
+    ],
+    "image": "",
+    "userSignals": {
+      "saves": 0,
+      "clicks": 0
+    },
+    "sources": [
+      {
+        "sourceId": "aws-ml-blog",
+        "name": "AWS Machine Learning Blog",
+        "type": "official_blog",
+        "publishedAt": "2026-06-19T14:05:04.000Z",
+        "isPrimary": true,
+        "independent": true,
+        "originalUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-campaign-workflow-with-insights-from-adobe-marketing-agent-for-amazon-quick/"
+      }
+    ],
+    "originalLinks": [
+      {
+        "label": "AWS Machine Learning Blog",
+        "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-campaign-workflow-with-insights-from-adobe-marketing-agent-for-amazon-quick/"
+      }
+    ],
+    "score": 65,
+    "scoreBreakdown": {
+      "sourceCount": 5,
+      "sourceWeight": 16.8,
+      "freshness": 12,
+      "primarySource": 14,
+      "crossVerification": 5,
+      "importance": 12.3,
+      "userFeedback": 0
+    }
+  },
+  {
+    "id": "aws-ml-blog-monitor-and-debug-generative-ai-inference-with-sagemaker-detailed-metrics-and-in",
+    "publishedAt": "2026-06-18T23:31:58.000Z",
+    "source": "AWS Machine Learning Blog",
+    "category": "模型发布",
+    "theme": "云与工程",
+    "importance": 0.82,
+    "title": "Monitor and debug generative AI inference with SageMaker detailed metrics and Insights dashboard on CloudWatch",
+    "summary": "Amazon SageMaker AI provides fully managed real-time inference hosting for machine learning models. You deploy a model to a SageMaker endpoint backed by one or more compute instances, and SageMaker handles provisioning and scaling. SageMaker supports multiple ",
+    "reason": "该条目来自已配置公开信息源，进入聚合流后会按信源权重、新鲜度和来源链路重新评分。",
+    "tags": [
+      "云与工程",
+      "official blog",
+      "en"
+    ],
+    "image": "",
+    "userSignals": {
+      "saves": 0,
+      "clicks": 0
+    },
+    "sources": [
+      {
+        "sourceId": "aws-ml-blog",
+        "name": "AWS Machine Learning Blog",
+        "type": "official_blog",
+        "publishedAt": "2026-06-18T23:31:58.000Z",
+        "isPrimary": true,
+        "independent": true,
+        "originalUrl": "https://aws.amazon.com/blogs/machine-learning/monitor-and-debug-generative-ai-inference-with-sagemaker-detailed-metrics-and-insights-dashboard-on-cloudwatch/"
+      }
+    ],
+    "originalLinks": [
+      {
+        "label": "AWS Machine Learning Blog",
+        "url": "https://aws.amazon.com/blogs/machine-learning/monitor-and-debug-generative-ai-inference-with-sagemaker-detailed-metrics-and-insights-dashboard-on-cloudwatch/"
+      }
+    ],
+    "score": 65,
+    "scoreBreakdown": {
+      "sourceCount": 5,
+      "sourceWeight": 16.8,
+      "freshness": 12,
+      "primarySource": 14,
+      "crossVerification": 5,
+      "importance": 12.3,
+      "userFeedback": 0
+    }
+  },
+  {
+    "id": "openai-news-new-usage-analytics-and-updated-spend-controls-for-enterprises",
+    "publishedAt": "2026-06-18T17:00:00.000Z",
+    "source": "OpenAI News",
+    "category": "模型发布",
+    "theme": "官方博客",
+    "importance": 0.82,
+    "title": "New usage analytics and updated spend controls for enterprises",
+    "summary": "OpenAI introduces new spend controls and usage analytics for ChatGPT Enterprise, helping organizations manage costs and scale AI with confidence.",
+    "reason": "该条目来自已配置公开信息源，进入聚合流后会按信源权重、新鲜度和来源链路重新评分。",
+    "tags": [
+      "官方博客",
+      "official blog",
+      "en"
+    ],
+    "image": "",
+    "userSignals": {
+      "saves": 0,
+      "clicks": 0
+    },
+    "sources": [
+      {
+        "sourceId": "openai-news",
+        "name": "OpenAI News",
+        "type": "official_blog",
+        "publishedAt": "2026-06-18T17:00:00.000Z",
+        "isPrimary": true,
+        "independent": true,
+        "originalUrl": "https://openai.com/index/chatgpt-enterprise-spend-controls"
+      }
+    ],
+    "originalLinks": [
+      {
+        "label": "OpenAI News",
+        "url": "https://openai.com/index/chatgpt-enterprise-spend-controls"
+      }
+    ],
+    "score": 64,
+    "scoreBreakdown": {
+      "sourceCount": 5,
+      "sourceWeight": 20,
+      "freshness": 8,
+      "primarySource": 14,
+      "crossVerification": 5,
+      "importance": 12.3,
+      "userFeedback": 0
+    }
+  },
+  {
+    "id": "openai-news-improving-health-intelligence-in-chatgpt",
+    "publishedAt": "2026-06-18T11:00:00.000Z",
+    "source": "OpenAI News",
+    "category": "论文研究",
+    "theme": "官方博客",
+    "importance": 0.82,
+    "title": "Improving health intelligence in ChatGPT",
+    "summary": "Learn how GPT-5.5 Instant improves ChatGPT’s health and wellness responses with stronger reasoning, better context, clearer communication, and physician-informed evaluations.",
+    "reason": "该条目来自已配置公开信息源，进入聚合流后会按信源权重、新鲜度和来源链路重新评分。",
+    "tags": [
+      "官方博客",
+      "official blog",
+      "en"
+    ],
+    "image": "",
+    "userSignals": {
+      "saves": 0,
+      "clicks": 0
+    },
+    "sources": [
+      {
+        "sourceId": "openai-news",
+        "name": "OpenAI News",
+        "type": "official_blog",
+        "publishedAt": "2026-06-18T11:00:00.000Z",
+        "isPrimary": true,
+        "independent": true,
+        "originalUrl": "https://openai.com/index/improving-health-intelligence-in-chatgpt"
+      }
+    ],
+    "originalLinks": [
+      {
+        "label": "OpenAI News",
+        "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt"
+      }
+    ],
+    "score": 64,
+    "scoreBreakdown": {
+      "sourceCount": 5,
+      "sourceWeight": 20,
+      "freshness": 8,
+      "primarySource": 14,
+      "crossVerification": 5,
+      "importance": 12.3,
+      "userFeedback": 0
+    }
+  },
+  {
+    "id": "openai-news-using-ai-to-help-physicians-diagnose-rare-genetic-diseases-affecting-children",
+    "publishedAt": "2026-06-18T08:00:00.000Z",
+    "source": "OpenAI News",
+    "category": "论文研究",
+    "theme": "官方博客",
+    "importance": 0.82,
+    "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+    "summary": "Researchers used an OpenAI reasoning model to help diagnose rare diseases, identifying 18 new diagnoses in previously unsolved cases.",
+    "reason": "该条目来自已配置公开信息源，进入聚合流后会按信源权重、新鲜度和来源链路重新评分。",
+    "tags": [
+      "官方博客",
+      "official blog",
+      "en"
+    ],
+    "image": "",
+    "userSignals": {
+      "saves": 0,
+      "clicks": 0
+    },
+    "sources": [
+      {
+        "sourceId": "openai-news",
+        "name": "OpenAI News",
+        "type": "official_blog",
+        "publishedAt": "2026-06-18T08:00:00.000Z",
+        "isPrimary": true,
+        "independent": true,
+        "originalUrl": "https://openai.com/index/diagnose-rare-childhood-diseases"
+      }
+    ],
+    "originalLinks": [
+      {
+        "label": "OpenAI News",
+        "url": "https://openai.com/index/diagnose-rare-childhood-diseases"
+      }
+    ],
+    "score": 64,
+    "scoreBreakdown": {
+      "sourceCount": 5,
+      "sourceWeight": 20,
+      "freshness": 8,
+      "primarySource": 14,
+      "crossVerification": 5,
+      "importance": 12.3,
+      "userFeedback": 0
+    }
+  },
+  {
+    "id": "openai-news-a-near-autonomous-ai-chemist-improves-a-challenging-reaction-in-medicinal-chemis",
+    "publishedAt": "2026-06-17T10:00:00.000Z",
+    "source": "OpenAI News",
+    "category": "论文研究",
+    "theme": "官方博客",
+    "importance": 0.82,
+    "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+    "summary": "OpenAI and Molecule.one show how a near-autonomous AI chemist using GPT-5.4 improved a key drug-making reaction, advancing medicinal chemistry research.",
+    "reason": "该条目来自已配置公开信息源，进入聚合流后会按信源权重、新鲜度和来源链路重新评分。",
+    "tags": [
+      "官方博客",
+      "official blog",
+      "en"
+    ],
+    "image": "",
+    "userSignals": {
+      "saves": 0,
+      "clicks": 0
+    },
+    "sources": [
+      {
+        "sourceId": "openai-news",
+        "name": "OpenAI News",
+        "type": "official_blog",
+        "publishedAt": "2026-06-17T10:00:00.000Z",
+        "isPrimary": true,
+        "independent": true,
+        "originalUrl": "https://openai.com/index/ai-chemist-improves-reaction"
+      }
+    ],
+    "originalLinks": [
+      {
+        "label": "OpenAI News",
+        "url": "https://openai.com/index/ai-chemist-improves-reaction"
+      }
+    ],
+    "score": 64,
+    "scoreBreakdown": {
+      "sourceCount": 5,
+      "sourceWeight": 20,
+      "freshness": 8,
+      "primarySource": 14,
+      "crossVerification": 5,
+      "importance": 12.3,
+      "userFeedback": 0
+    }
+  },
+  {
+    "id": "openai-news-introducing-lifescibench",
+    "publishedAt": "2026-06-17T00:00:00.000Z",
+    "source": "OpenAI News",
+    "category": "论文研究",
+    "theme": "官方博客",
+    "importance": 0.82,
+    "title": "Introducing LifeSciBench",
+    "summary": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
+    "reason": "该条目来自已配置公开信息源，进入聚合流后会按信源权重、新鲜度和来源链路重新评分。",
+    "tags": [
+      "官方博客",
+      "official blog",
+      "en"
+    ],
+    "image": "",
+    "userSignals": {
+      "saves": 0,
+      "clicks": 0
+    },
+    "sources": [
+      {
+        "sourceId": "openai-news",
+        "name": "OpenAI News",
+        "type": "official_blog",
+        "publishedAt": "2026-06-17T00:00:00.000Z",
+        "isPrimary": true,
+        "independent": true,
+        "originalUrl": "https://openai.com/index/introducing-life-sci-bench"
+      }
+    ],
+    "originalLinks": [
+      {
+        "label": "OpenAI News",
+        "url": "https://openai.com/index/introducing-life-sci-bench"
+      }
+    ],
+    "score": 64,
+    "scoreBreakdown": {
+      "sourceCount": 5,
+      "sourceWeight": 20,
+      "freshness": 8,
+      "primarySource": 14,
+      "crossVerification": 5,
+      "importance": 12.3,
+      "userFeedback": 0
+    }
+  },
+  {
+    "id": "aihot-featured-nsa局长-mythos数小时内攻破其几乎所有机密系统",
+    "publishedAt": "2026-06-21T15:31:52.000Z",
+    "source": "AI HOT 精选",
+    "category": "行业动态",
+    "theme": "聚合",
+    "importance": 0.78,
+    "title": "NSA局长：Mythos数小时内攻破其几乎所有机密系统",
+    "summary": "美国NSA局长称，Mythos在数小时内攻破了其几乎所有机密系统。此前Mythos已在5天内破解MacOS。而顶级漏洞团队Google Project Zero完成同等攻击需6个月，单个MacOS零日漏洞价值约200万美元。苹果原假设全球仅10-20个团队具备此能力，Mythos将使该数字增至数千。全球约20亿活跃苹果设备中，Mac用户多为记者、高管、政府官员等高价值目标，苹果曾是\"最安全\"的选择。 🔗 阅读原文：https://x.com/AISafetyMemes/status/206871855217425",
+    "reason": "该条目来自已配置公开信息源，进入聚合流后会按信源权重、新鲜度和来源链路重新评分。",
+    "tags": [
+      "聚合",
+      "rss",
+      "zh-CN"
+    ],
+    "image": "",
+    "userSignals": {
+      "saves": 0,
+      "clicks": 0
+    },
+    "sources": [
+      {
+        "sourceId": "aihot-featured",
+        "name": "AI HOT 精选",
+        "type": "rss",
+        "publishedAt": "2026-06-21T15:31:52.000Z",
+        "isPrimary": false,
+        "independent": true,
+        "originalUrl": "https://aihot.virxact.com/items/cmqny6q7v0288slhkbzc8ob3u"
+      }
+    ],
+    "originalLinks": [
+      {
+        "label": "AI HOT 精选",
+        "url": "https://aihot.virxact.com/items/cmqny6q7v0288slhkbzc8ob3u"
+      }
+    ],
+    "score": 62,
+    "scoreBreakdown": {
+      "sourceCount": 5,
+      "sourceWeight": 17.6,
+      "freshness": 18,
+      "primarySource": 5,
+      "crossVerification": 5,
+      "importance": 11.7,
+      "userFeedback": 0
+    }
+  },
+  {
+    "id": "aihot-featured-美团tabbit国际版免费接入gpt-5-5-claude-opus-4-8等旗舰模型",
+    "publishedAt": "2026-06-21T10:11:21.000Z",
+    "source": "AI HOT 精选",
+    "category": "模型发布",
+    "theme": "聚合",
+    "importance": 0.78,
+    "title": "美团tabbit国际版免费接入GPT-5.5/Claude Opus 4.8等旗舰模型",
+    "summary": "美团近期上线tabbit国际版应用，免费集成多家顶级AI模型的最新旗舰版，包括GPT-5.5、Claude Opus 4.8、Gemini 3.5 Flash，以及国内Kimi-2.6、GLM-5.1、MiniMax-M3。用户无需单独订阅即可使用这些模型。需注意：只有国际版包含海外模型，国内版仅提供国内模型。该应用旨在抢占AI入口，目前处于免费推广阶段。 🔗 阅读原文：https://x.com/AYi_AInotes/status/2068637890247016607",
+    "reason": "该条目来自已配置公开信息源，进入聚合流后会按信源权重、新鲜度和来源链路重新评分。",
+    "tags": [
+      "聚合",
+      "rss",
+      "zh-CN"
+    ],
+    "image": "",
+    "userSignals": {
+      "saves": 0,
+      "clicks": 0
+    },
+    "sources": [
+      {
+        "sourceId": "aihot-featured",
+        "name": "AI HOT 精选",
+        "type": "rss",
+        "publishedAt": "2026-06-21T10:11:21.000Z",
+        "isPrimary": false,
+        "independent": true,
+        "originalUrl": "https://aihot.virxact.com/items/cmqnokdyn007jsl4nxazzzxp1"
+      }
+    ],
+    "originalLinks": [
+      {
+        "label": "AI HOT 精选",
+        "url": "https://aihot.virxact.com/items/cmqnokdyn007jsl4nxazzzxp1"
+      }
+    ],
+    "score": 62,
+    "scoreBreakdown": {
+      "sourceCount": 5,
+      "sourceWeight": 17.6,
+      "freshness": 18,
+      "primarySource": 5,
+      "crossVerification": 5,
+      "importance": 11.7,
+      "userFeedback": 0
+    }
+  },
+  {
+    "id": "aihot-all-anthropic-mythos-新版本完成训练-更强但发布计划未明",
+    "publishedAt": "2026-06-21T17:56:01.000Z",
+    "source": "AI HOT 全部",
+    "category": "模型发布",
+    "theme": "聚合",
+    "importance": 0.78,
+    "title": "Anthropic Mythos 新版本完成训练，更强但发布计划未明",
+    "summary": "Anthropic 的 Mythos 模型新版本已完成训练，距 4 月 7 日 Mythos-1 通过 Project Glasswing 发布仅两个月。可靠消息源 Andrew Curran 确认新版更强，但名称（Mythos 5.1 或 Mythos 6）及是否公开尚不明确，也可能仅用于内部加速开发。目前不确定新版本是否通过 Project Glasswing 提供，以及用户能否通过 Fable 5.1 访问。引用推文称，停止 Fable 5 或 Mythos 5 的公开服务反而可能通过释放资源加速开发，前沿实",
+    "reason": "该条目来自已配置公开信息源，进入聚合流后会按信源权重、新鲜度和来源链路重新评分。",
+    "tags": [
+      "聚合",
+      "rss",
+      "zh-CN"
+    ],
+    "image": "",
+    "userSignals": {
+      "saves": 0,
+      "clicks": 0
+    },
+    "sources": [
+      {
+        "sourceId": "aihot-all",
+        "name": "AI HOT 全部",
+        "type": "rss",
+        "publishedAt": "2026-06-21T17:56:01.000Z",
+        "isPrimary": false,
+        "independent": true,
+        "originalUrl": "https://aihot.virxact.com/items/cmqo38pgj03exslhkqxklkfdh"
+      }
+    ],
+    "originalLinks": [
+      {
+        "label": "AI HOT 全部",
+        "url": "https://aihot.virxact.com/items/cmqo38pgj03exslhkqxklkfdh"
+      }
+    ],
+    "score": 61,
+    "scoreBreakdown": {
+      "sourceCount": 5,
+      "sourceWeight": 16.4,
+      "freshness": 18,
+      "primarySource": 5,
+      "crossVerification": 5,
+      "importance": 11.7,
+      "userFeedback": 0
+    }
+  },
+  {
+    "id": "aihot-all-glm-5-2登顶开源模型排行榜",
+    "publishedAt": "2026-06-21T17:30:23.000Z",
+    "source": "AI HOT 全部",
+    "category": "模型发布",
+    "theme": "聚合",
+    "importance": 0.78,
+    "title": "GLM-5.2登顶开源模型排行榜",
+    "summary": "GLM-5.2 的表现令人印象深刻。 确实是前沿的开放权重模型。 那么，我们很快能看到 Gemini 模型跻身前三吗？ 🔗 阅读原文：https://x.com/omarsar0/status/2068748378054222173",
+    "reason": "该条目来自已配置公开信息源，进入聚合流后会按信源权重、新鲜度和来源链路重新评分。",
+    "tags": [
+      "聚合",
+      "rss",
+      "zh-CN"
+    ],
+    "image": "",
+    "userSignals": {
+      "saves": 0,
+      "clicks": 0
+    },
+    "sources": [
+      {
+        "sourceId": "aihot-all",
+        "name": "AI HOT 全部",
+        "type": "rss",
+        "publishedAt": "2026-06-21T17:30:23.000Z",
+        "isPrimary": false,
+        "independent": true,
+        "originalUrl": "https://aihot.virxact.com/items/cmqo2gq4m039jslhktf2hdupt"
+      }
+    ],
+    "originalLinks": [
+      {
+        "label": "AI HOT 全部",
+        "url": "https://aihot.virxact.com/items/cmqo2gq4m039jslhktf2hdupt"
+      }
+    ],
+    "score": 61,
+    "scoreBreakdown": {
+      "sourceCount": 5,
+      "sourceWeight": 16.4,
+      "freshness": 18,
+      "primarySource": 5,
+      "crossVerification": 5,
+      "importance": 11.7,
+      "userFeedback": 0
+    }
+  },
+  {
+    "id": "aihot-all-grok-imagine-生成小猫跳舞视频",
+    "publishedAt": "2026-06-21T17:29:12.000Z",
+    "source": "AI HOT 全部",
+    "category": "行业动态",
+    "theme": "聚合",
+    "importance": 0.78,
+    "title": "Grok Imagine 生成小猫跳舞视频",
+    "summary": "你的孩子会喜欢这个视频！ Grok Imagine 提示词： 戴着连指手套的小猫开始跳舞唱歌\"我们是戴着连指手套的小猫\"，动作快乐、充满活力，表情顽皮。 🔗 阅读原文：https://x.com/elonmusk/status/2068748080623604004",
+    "reason": "该条目来自已配置公开信息源，进入聚合流后会按信源权重、新鲜度和来源链路重新评分。",
+    "tags": [
+      "聚合",
+      "rss",
+      "zh-CN"
+    ],
+    "image": "",
+    "userSignals": {
+      "saves": 0,
+      "clicks": 0
+    },
+    "sources": [
+      {
+        "sourceId": "aihot-all",
+        "name": "AI HOT 全部",
+        "type": "rss",
+        "publishedAt": "2026-06-21T17:29:12.000Z",
+        "isPrimary": false,
+        "independent": true,
+        "originalUrl": "https://aihot.virxact.com/items/cmqo2fyp7038tslhkmh7wrl8f"
+      }
+    ],
+    "originalLinks": [
+      {
+        "label": "AI HOT 全部",
+        "url": "https://aihot.virxact.com/items/cmqo2fyp7038tslhkmh7wrl8f"
+      }
+    ],
+    "score": 61,
+    "scoreBreakdown": {
+      "sourceCount": 5,
+      "sourceWeight": 16.4,
+      "freshness": 18,
+      "primarySource": 5,
+      "crossVerification": 5,
+      "importance": 11.7,
+      "userFeedback": 0
+    }
+  },
+  {
+    "id": "aihot-all-linus-原始-vibe-coder-零成本无限上下文",
+    "publishedAt": "2026-06-21T17:27:21.000Z",
+    "source": "AI HOT 全部",
+    "category": "模型发布",
+    "theme": "聚合",
+    "importance": 0.78,
+    "title": "Linus：原始 Vibe Coder，零成本无限上下文",
+    "summary": "一条推文调侃 Linus 是原始的 vibe coder：他只需在邮件列表上发一条愤怒邮件描述需求，全球数千工程师就免费实现。零 token 消耗、零 API 成本，拥有无限上下文（30 多年内核知识）。对比 OpenAI 和 Anthropic 试图用 AI 复制 Linus 从 1991 年起靠人类贡献者做的事，但 Linus 的\"agents\"不产生模型幻觉且完全免费。 🔗 阅读原文：https://x.com/rohanpaul_ai/status/2068747614045319359",
+    "reason": "该条目来自已配置公开信息源，进入聚合流后会按信源权重、新鲜度和来源链路重新评分。",
+    "tags": [
+      "聚合",
+      "rss",
+      "zh-CN"
+    ],
+    "image": "",
+    "userSignals": {
+      "saves": 0,
+      "clicks": 0
+    },
+    "sources": [
+      {
+        "sourceId": "aihot-all",
+        "name": "AI HOT 全部",
+        "type": "rss",
+        "publishedAt": "2026-06-21T17:27:21.000Z",
+        "isPrimary": false,
+        "independent": true,
+        "originalUrl": "https://aihot.virxact.com/items/cmqo2iuoe03c1slhkbiu2a2ey"
+      }
+    ],
+    "originalLinks": [
+      {
+        "label": "AI HOT 全部",
+        "url": "https://aihot.virxact.com/items/cmqo2iuoe03c1slhkbiu2a2ey"
+      }
+    ],
+    "score": 61,
+    "scoreBreakdown": {
+      "sourceCount": 5,
+      "sourceWeight": 16.4,
+      "freshness": 18,
+      "primarySource": 5,
+      "crossVerification": 5,
+      "importance": 11.7,
+      "userFeedback": 0
+    }
+  },
+  {
+    "id": "aihot-all-glm-5-2-迎来-deepseek-r1-时刻",
+    "publishedAt": "2026-06-21T17:16:17.000Z",
+    "source": "AI HOT 全部",
+    "category": "模型发布",
+    "theme": "聚合",
+    "importance": 0.78,
+    "title": "GLM-5.2 迎来 DeepSeek R1 时刻",
+    "summary": "看我的时间线，感觉 GLM-5.2 正迎来它的 DeepSeek R1 时刻。 我从未想过一个开源模型能这么快跻身编程模型前三。 🔗 阅读原文：https://x.com/Yuchenj_UW/status/2068744828259852546",
+    "reason": "该条目来自已配置公开信息源，进入聚合流后会按信源权重、新鲜度和来源链路重新评分。",
+    "tags": [
+      "聚合",
+      "rss",
+      "zh-CN"
+    ],
+    "image": "",
+    "userSignals": {
+      "saves": 0,
+      "clicks": 0
+    },
+    "sources": [
+      {
+        "sourceId": "aihot-all",
+        "name": "AI HOT 全部",
+        "type": "rss",
+        "publishedAt": "2026-06-21T17:16:17.000Z",
+        "isPrimary": false,
+        "independent": true,
+        "originalUrl": "https://aihot.virxact.com/items/cmqo2kwxz03dvslhkiskb490t"
+      }
+    ],
+    "originalLinks": [
+      {
+        "label": "AI HOT 全部",
+        "url": "https://aihot.virxact.com/items/cmqo2kwxz03dvslhkiskb490t"
+      }
+    ],
+    "score": 61,
+    "scoreBreakdown": {
+      "sourceCount": 5,
+      "sourceWeight": 16.4,
+      "freshness": 18,
+      "primarySource": 5,
+      "crossVerification": 5,
+      "importance": 11.7,
+      "userFeedback": 0
+    }
+  },
+  {
+    "id": "aws-ml-blog-amazon-bedrock-agentcore-harness-is-now-generally-available-go-from-idea-to-prod",
+    "publishedAt": "2026-06-18T17:32:22.000Z",
+    "source": "AWS Machine Learning Blog",
+    "category": "产品发布",
+    "theme": "云与工程",
+    "importance": 0.82,
+    "title": "Amazon Bedrock AgentCore harness is now generally available: Go from idea to production-grade agent in minutes",
+    "summary": "Today, Amazon Bedrock AgentCore harness is generally available. Two API calls (CreateHarness to define an agent, and InvokeHarness to run it), and you have an agent running in seconds. The agent runs in its own isolated environment with a filesystem and shell,",
+    "reason": "该条目来自已配置公开信息源，进入聚合流后会按信源权重、新鲜度和来源链路重新评分。",
+    "tags": [
+      "云与工程",
+      "official blog",
+      "en"
+    ],
+    "image": "",
+    "userSignals": {
+      "saves": 0,
+      "clicks": 0
+    },
+    "sources": [
+      {
+        "sourceId": "aws-ml-blog",
+        "name": "AWS Machine Learning Blog",
+        "type": "official_blog",
+        "publishedAt": "2026-06-18T17:32:22.000Z",
+        "isPrimary": true,
+        "independent": true,
+        "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-is-now-generally-available-go-from-idea-to-production-grade-agent-in-minutes/"
+      }
+    ],
+    "originalLinks": [
+      {
+        "label": "AWS Machine Learning Blog",
+        "url": "https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-is-now-generally-available-go-from-idea-to-production-grade-agent-in-minutes/"
+      }
+    ],
+    "score": 61,
+    "scoreBreakdown": {
+      "sourceCount": 5,
+      "sourceWeight": 16.8,
+      "freshness": 8,
+      "primarySource": 14,
+      "crossVerification": 5,
+      "importance": 12.3,
+      "userFeedback": 0
+    }
+  },
+  {
+    "id": "aws-ml-blog-amazon-sagemaker-ai-async-inference-now-supports-inline-request-payloads",
+    "publishedAt": "2026-06-17T20:56:36.000Z",
+    "source": "AWS Machine Learning Blog",
+    "category": "行业动态",
+    "theme": "云与工程",
+    "importance": 0.82,
+    "title": "Amazon SageMaker AI Async Inference now supports inline request payloads",
+    "summary": "Today, we’re announcing inline payload support for Amazon SageMaker AI Async Inference. Customers can now send inference payloads directly in the request body of the InvokeEndpointAsync API, removing the need to upload input data to Amazon Simple Storage Servi",
+    "reason": "该条目来自已配置公开信息源，进入聚合流后会按信源权重、新鲜度和来源链路重新评分。",
+    "tags": [
+      "云与工程",
+      "official blog",
+      "en"
+    ],
+    "image": "",
+    "userSignals": {
+      "saves": 0,
+      "clicks": 0
+    },
+    "sources": [
+      {
+        "sourceId": "aws-ml-blog",
+        "name": "AWS Machine Learning Blog",
+        "type": "official_blog",
+        "publishedAt": "2026-06-17T20:56:36.000Z",
+        "isPrimary": true,
+        "independent": true,
+        "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-async-inference-now-supports-inline-request-payloads/"
+      }
+    ],
+    "originalLinks": [
+      {
+        "label": "AWS Machine Learning Blog",
+        "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-async-inference-now-supports-inline-request-payloads/"
+      }
+    ],
+    "score": 61,
+    "scoreBreakdown": {
+      "sourceCount": 5,
+      "sourceWeight": 16.8,
+      "freshness": 8,
+      "primarySource": 14,
+      "crossVerification": 5,
+      "importance": 12.3,
+      "userFeedback": 0
+    }
+  },
+  {
+    "id": "aihot-featured-腾讯元宝父亲节活动-上传照片生成与年轻爸爸的合影",
+    "publishedAt": "2026-06-21T04:51:10.000Z",
+    "source": "AI HOT 精选",
+    "category": "行业动态",
+    "theme": "聚合",
+    "importance": 0.78,
+    "title": "腾讯元宝父亲节活动：上传照片生成与年轻爸爸的合影",
+    "summary": "腾讯元宝推出父亲节主题活动，用户可选择爸爸年轻时照片与自己的照片，输入提示词（如\"帮我生成一张和爸爸的合影，将图2的我融合到图1爸爸的照片中，我想穿越回__年前，和他一起_____；保留爸爸照片的背景、动作及五官；人物姿态自然协调，整体光线与色调保持一致\"），元宝即可生成合影。活动旨在让用户\"回到过去\"看到爸爸的青春模样。 🔗 阅读原文：https://mp.weixin.qq.com/s/xrTg2Bdy3FF3gn3C_gVBJQ",
+    "reason": "该条目来自已配置公开信息源，进入聚合流后会按信源权重、新鲜度和来源链路重新评分。",
+    "tags": [
+      "聚合",
+      "rss",
+      "zh-CN"
+    ],
+    "image": "",
+    "userSignals": {
+      "saves": 0,
+      "clicks": 0
+    },
+    "sources": [
+      {
+        "sourceId": "aihot-featured",
+        "name": "AI HOT 精选",
+        "type": "rss",
+        "publishedAt": "2026-06-21T04:51:10.000Z",
+        "isPrimary": false,
+        "independent": true,
+        "originalUrl": "https://aihot.virxact.com/items/cmqnbj6i202ndsl8hb9fghqqf"
+      }
+    ],
+    "originalLinks": [
+      {
+        "label": "AI HOT 精选",
+        "url": "https://aihot.virxact.com/items/cmqnbj6i202ndsl8hb9fghqqf"
+      }
+    ],
+    "score": 60,
+    "scoreBreakdown": {
+      "sourceCount": 5,
+      "sourceWeight": 17.6,
+      "freshness": 16,
+      "primarySource": 5,
+      "crossVerification": 5,
+      "importance": 11.7,
+      "userFeedback": 0
+    }
+  },
+  {
+    "id": "marktechpost-crawlee-for-python-build-a-web-crawling-pipeline-with-robots-handling-link-graph",
+    "publishedAt": "2026-06-21T06:52:10.000Z",
+    "source": "MarkTechPost",
+    "category": "产品发布",
+    "theme": "新闻媒体",
+    "importance": 0.68,
+    "title": "Crawlee for Python: Build a Web Crawling Pipeline with Robots Handling, Link Graphs, and RAG Chunk Export",
+    "summary": "In this tutorial, we build a complete Crawlee for Python workflow from setup to AI-ready output. We generate a local demo website, then crawl it with BeautifulSoupCrawler, ParselCrawler, and PlaywrightCrawler. We extract titles, metadata, product fields, and J",
+    "reason": "该条目来自已配置公开信息源，进入聚合流后会按信源权重、新鲜度和来源链路重新评分。",
+    "tags": [
+      "新闻媒体",
+      "media",
+      "en"
+    ],
+    "image": "",
+    "userSignals": {
+      "saves": 0,
+      "clicks": 0
+    },
+    "sources": [
+      {
+        "sourceId": "marktechpost",
+        "name": "MarkTechPost",
+        "type": "media",
+        "publishedAt": "2026-06-21T06:52:10.000Z",
+        "isPrimary": false,
+        "independent": true,
+        "originalUrl": "https://www.marktechpost.com/2026/06/20/crawlee-for-python-build-a-web-crawling-pipeline-with-robots-handling-link-graphs-and-rag-chunk-export/"
+      }
+    ],
+    "originalLinks": [
+      {
+        "label": "MarkTechPost",
+        "url": "https://www.marktechpost.com/2026/06/20/crawlee-for-python-build-a-web-crawling-pipeline-with-robots-handling-link-graphs-and-rag-chunk-export/"
+      }
+    ],
+    "score": 57,
+    "scoreBreakdown": {
+      "sourceCount": 5,
+      "sourceWeight": 13.6,
+      "freshness": 18,
+      "primarySource": 5,
+      "crossVerification": 5,
+      "importance": 10.2,
+      "userFeedback": 0
+    }
+  },
+  {
+    "id": "aihot-featured-开源教程-deep-agents-实战-发布",
+    "publishedAt": "2026-06-20T12:16:16.000Z",
+    "source": "AI HOT 精选",
+    "category": "模型发布",
+    "theme": "聚合",
+    "importance": 0.78,
+    "title": "开源教程《Deep Agents 实战》发布",
+    "summary": "LangChain 官方认证大使 @zhanghaili0610 推出开源教程《Deep Agents 实战》，基于 LangChain / LangGraph 生态，讲解如何用 Deep Agents Harness 框架构建真实 Agent 应用。核心是\"三层架构\"：Runtime（LangGraph）、Framework（LangChain）、Harness（Deep Agents）。技术内核为上下文工程，通过虚拟文件系统实现按需读取、中间结果落盘、大文件局部读取。教程共 8 章 + 2 准备篇，覆盖虚拟文件",
+    "reason": "该条目来自已配置公开信息源，进入聚合流后会按信源权重、新鲜度和来源链路重新评分。",
+    "tags": [
+      "聚合",
+      "rss",
+      "zh-CN"
+    ],
+    "image": "",
+    "userSignals": {
+      "saves": 0,
+      "clicks": 0
+    },
+    "sources": [
+      {
+        "sourceId": "aihot-featured",
+        "name": "AI HOT 精选",
+        "type": "rss",
+        "publishedAt": "2026-06-20T12:16:16.000Z",
+        "isPrimary": false,
+        "independent": true,
+        "originalUrl": "https://aihot.virxact.com/items/cmqmbymfe00zisl4f3pa6jwmz"
+      }
+    ],
+    "originalLinks": [
+      {
+        "label": "AI HOT 精选",
+        "url": "https://aihot.virxact.com/items/cmqmbymfe00zisl4f3pa6jwmz"
+      }
+    ],
+    "score": 56,
+    "scoreBreakdown": {
+      "sourceCount": 5,
+      "sourceWeight": 17.6,
+      "freshness": 12,
+      "primarySource": 5,
+      "crossVerification": 5,
+      "importance": 11.7,
+      "userFeedback": 0
+    }
+  },
+  {
+    "id": "aihot-featured-微软双向转售gpt与deepseek成全球最大ai中间商",
+    "publishedAt": "2026-06-20T06:25:29.000Z",
+    "source": "AI HOT 精选",
+    "category": "模型发布",
+    "theme": "聚合",
+    "importance": 0.78,
+    "title": "微软双向转售GPT与DeepSeek成全球最大AI中间商",
+    "summary": "彭博社报道，微软已成为全球最大AI模型中转站，既将ChatGPT卖给中国企业，也反向将DeepSeek模型卖给西方客户。报道称微软正在测试DeepSeek-R1和DeepSeek-V4，计划向西方客户提供这些中国模型。这一模式构建起跨中美AI模型的双向贸易网络。 🔗 阅读原文：https://x.com/AYi_AInotes/status/2068218661710512231",
+    "reason": "该条目来自已配置公开信息源，进入聚合流后会按信源权重、新鲜度和来源链路重新评分。",
+    "tags": [
+      "聚合",
+      "rss",
+      "zh-CN"
+    ],
+    "image": "",
+    "userSignals": {
+      "saves": 0,
+      "clicks": 0
+    },
+    "sources": [
+      {
+        "sourceId": "aihot-featured",
+        "name": "AI HOT 精选",
+        "type": "rss",
+        "publishedAt": "2026-06-20T06:25:29.000Z",
+        "isPrimary": false,
+        "independent": true,
+        "originalUrl": "https://aihot.virxact.com/items/cmqm0elho009fsliiybg230vu"
+      }
+    ],
+    "originalLinks": [
+      {
+        "label": "AI HOT 精选",
+        "url": "https://aihot.virxact.com/items/cmqm0elho009fsliiybg230vu"
+      }
+    ],
+    "score": 56,
+    "scoreBreakdown": {
+      "sourceCount": 5,
+      "sourceWeight": 17.6,
+      "freshness": 12,
+      "primarySource": 5,
+      "crossVerification": 5,
+      "importance": 11.7,
+      "userFeedback": 0
+    }
+  },
+  {
+    "id": "marktechpost-cisco-ai-introduces-fapo-pipeline-aware-prompt-optimization-with-step-level-fail",
+    "publishedAt": "2026-06-20T23:04:55.000Z",
+    "source": "MarkTechPost",
+    "category": "论文研究",
+    "theme": "新闻媒体",
+    "importance": 0.68,
+    "title": "Cisco AI Introduces FAPO: Pipeline-Aware Prompt Optimization With Step-Level Failure Attribution and Claude Code Orchestration",
+    "summary": "Cisco Foundation AI has open-sourced FAPO (Fully Automated Prompt Optimization), a Claude Code-driven system that autonomously optimizes multi-step LLM pipelines from baseline prompts to target accuracy. FAPO evaluates a chain, attributes failures at the step ",
+    "reason": "该条目来自已配置公开信息源，进入聚合流后会按信源权重、新鲜度和来源链路重新评分。",
+    "tags": [
+      "新闻媒体",
+      "media",
+      "en"
+    ],
+    "image": "",
+    "userSignals": {
+      "saves": 0,
+      "clicks": 0
+    },
+    "sources": [
+      {
+        "sourceId": "marktechpost",
+        "name": "MarkTechPost",
+        "type": "media",
+        "publishedAt": "2026-06-20T23:04:55.000Z",
+        "isPrimary": false,
+        "independent": true,
+        "originalUrl": "https://www.marktechpost.com/2026/06/20/cisco-ai-introduces-fapo-pipeline-aware-prompt-optimization-with-step-level-failure-attribution-and-claude-code-orchestration/"
+      }
+    ],
+    "originalLinks": [
+      {
+        "label": "MarkTechPost",
+        "url": "https://www.marktechpost.com/2026/06/20/cisco-ai-introduces-fapo-pipeline-aware-prompt-optimization-with-step-level-failure-attribution-and-claude-code-orchestration/"
+      }
+    ],
+    "score": 55,
+    "scoreBreakdown": {
+      "sourceCount": 5,
+      "sourceWeight": 13.6,
+      "freshness": 16,
+      "primarySource": 5,
+      "crossVerification": 5,
+      "importance": 10.2,
+      "userFeedback": 0
+    }
+  },
+  {
+    "id": "marktechpost-nous-research-updates-hermes-agent-with-a-blank-slate-mode-that-pins-toolsets-vi",
+    "publishedAt": "2026-06-20T21:50:11.000Z",
+    "source": "MarkTechPost",
+    "category": "论文研究",
+    "theme": "新闻媒体",
+    "importance": 0.68,
+    "title": "Nous Research Updates Hermes Agent With a Blank Slate Mode That Pins Toolsets via platform_toolsets.cli and disabled_toolsets",
+    "summary": "Nous Research has added a Blank Slate setup mode to its open-source Hermes Agent. It starts an agent with everything off except provider, model, File Operations, and Terminal. You opt in to the rest. The post Nous Research Updates Hermes Agent With a Blank Sla",
+    "reason": "该条目来自已配置公开信息源，进入聚合流后会按信源权重、新鲜度和来源链路重新评分。",
+    "tags": [
+      "新闻媒体",
+      "media",
+      "en"
+    ],
+    "image": "",
+    "userSignals": {
+      "saves": 0,
+      "clicks": 0
+    },
+    "sources": [
+      {
+        "sourceId": "marktechpost",
+        "name": "MarkTechPost",
+        "type": "media",
+        "publishedAt": "2026-06-20T21:50:11.000Z",
+        "isPrimary": false,
+        "independent": true,
+        "originalUrl": "https://www.marktechpost.com/2026/06/20/nous-research-updates-hermes-agent-with-a-blank-slate-mode-that-pins-toolsets-via-platform_toolsets-cli-and-disabled_toolsets/"
+      }
+    ],
+    "originalLinks": [
+      {
+        "label": "MarkTechPost",
+        "url": "https://www.marktechpost.com/2026/06/20/nous-research-updates-hermes-agent-with-a-blank-slate-mode-that-pins-toolsets-via-platform_toolsets-cli-and-disabled_toolsets/"
+      }
+    ],
+    "score": 55,
+    "scoreBreakdown": {
+      "sourceCount": 5,
+      "sourceWeight": 13.6,
+      "freshness": 16,
+      "primarySource": 5,
+      "crossVerification": 5,
+      "importance": 10.2,
+      "userFeedback": 0
+    }
+  },
+  {
+    "id": "github-ai-ml-how-we-built-an-internal-data-analytics-agent",
+    "publishedAt": "2026-06-19T16:00:00.000Z",
+    "source": "GitHub AI and ML Blog",
+    "category": "产品发布",
+    "theme": "开源工程",
+    "importance": 0.78,
+    "title": "How we built an internal data analytics agent",
+    "summary": "Qubot, our internal Copilot-powered analytics agent, allows any GitHub employee to ask questions about our data in plain language. Here's what we learned as we built it. The post How we built an internal data analytics agent appeared first on The GitHub Blog .",
+    "reason": "该条目来自已配置公开信息源，进入聚合流后会按信源权重、新鲜度和来源链路重新评分。",
+    "tags": [
+      "开源工程",
+      "rss",
+      "en"
+    ],
+    "image": "",
+    "userSignals": {
+      "saves": 0,
+      "clicks": 0
+    },
+    "sources": [
+      {
+        "sourceId": "github-ai-ml",
+        "name": "GitHub AI and ML Blog",
+        "type": "rss",
+        "publishedAt": "2026-06-19T16:00:00.000Z",
+        "isPrimary": false,
+        "independent": true,
+        "originalUrl": "https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/"
+      }
+    ],
+    "originalLinks": [
+      {
+        "label": "GitHub AI and ML Blog",
+        "url": "https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/"
+      }
+    ],
+    "score": 55,
+    "scoreBreakdown": {
+      "sourceCount": 5,
+      "sourceWeight": 16,
+      "freshness": 12,
+      "primarySource": 5,
+      "crossVerification": 5,
+      "importance": 11.7,
+      "userFeedback": 0
+    }
+  },
+  {
+    "id": "marktechpost-yandex-open-sources-yaff-a-zero-copy-wire-format-for-protobuf-with-near-struct-r",
+    "publishedAt": "2026-06-20T09:23:59.000Z",
+    "source": "MarkTechPost",
+    "category": "技巧观点",
+    "theme": "新闻媒体",
+    "importance": 0.68,
+    "title": "Yandex Open-Sources YaFF: A Zero-Copy Wire Format for Protobuf With Near-Struct Read Speed",
+    "summary": "In this article we look at YaFF, Yandex's open-source zero-copy wire format for the Protobuf ecosystem. We keep the .proto file as the single source of truth, changing only how data sits in memory. We walk through its four layouts — Fixed, Flat, Sparse, and Dy",
+    "reason": "该条目来自已配置公开信息源，进入聚合流后会按信源权重、新鲜度和来源链路重新评分。",
+    "tags": [
+      "新闻媒体",
+      "media",
+      "en"
+    ],
+    "image": "",
+    "userSignals": {
+      "saves": 0,
+      "clicks": 0
+    },
+    "sources": [
+      {
+        "sourceId": "marktechpost",
+        "name": "MarkTechPost",
+        "type": "media",
+        "publishedAt": "2026-06-20T09:23:59.000Z",
+        "isPrimary": false,
+        "independent": true,
+        "originalUrl": "https://www.marktechpost.com/2026/06/20/yandex-open-sources-yaff-a-zero-copy-wire-format-for-protobuf-with-near-struct-read-speed/"
+      }
+    ],
+    "originalLinks": [
+      {
+        "label": "MarkTechPost",
+        "url": "https://www.marktechpost.com/2026/06/20/yandex-open-sources-yaff-a-zero-copy-wire-format-for-protobuf-with-near-struct-read-speed/"
+      }
+    ],
+    "score": 51,
+    "scoreBreakdown": {
+      "sourceCount": 5,
+      "sourceWeight": 13.6,
+      "freshness": 12,
+      "primarySource": 5,
+      "crossVerification": 5,
+      "importance": 10.2,
+      "userFeedback": 0
+    }
+  },
+  {
+    "id": "marktechpost-how-to-build-a-forecasting-pipeline-with-timecopilot-using-foundation-models-and",
+    "publishedAt": "2026-06-20T09:05:23.000Z",
+    "source": "MarkTechPost",
+    "category": "论文研究",
+    "theme": "新闻媒体",
+    "importance": 0.68,
+    "title": "How to Build a Forecasting Pipeline with TimeCopilot Using Foundation Models and Automated Anomaly Detection",
+    "summary": "We build an end-to-end forecasting workflow with TimeCopilot on a panel of real airline passenger data and a synthetic seasonal series with injected anomalies. We evaluate statistical, foundation, and optional GPU-based models using rolling cross-validation an",
+    "reason": "该条目来自已配置公开信息源，进入聚合流后会按信源权重、新鲜度和来源链路重新评分。",
+    "tags": [
+      "新闻媒体",
+      "media",
+      "en"
+    ],
+    "image": "",
+    "userSignals": {
+      "saves": 0,
+      "clicks": 0
+    },
+    "sources": [
+      {
+        "sourceId": "marktechpost",
+        "name": "MarkTechPost",
+        "type": "media",
+        "publishedAt": "2026-06-20T09:05:23.000Z",
+        "isPrimary": false,
+        "independent": true,
+        "originalUrl": "https://www.marktechpost.com/2026/06/20/how-to-build-a-forecasting-pipeline-with-timecopilot-using-foundation-models-and-automated-anomaly-detection/"
+      }
+    ],
+    "originalLinks": [
+      {
+        "label": "MarkTechPost",
+        "url": "https://www.marktechpost.com/2026/06/20/how-to-build-a-forecasting-pipeline-with-timecopilot-using-foundation-models-and-automated-anomaly-detection/"
+      }
+    ],
+    "score": 51,
+    "scoreBreakdown": {
+      "sourceCount": 5,
+      "sourceWeight": 13.6,
+      "freshness": 12,
+      "primarySource": 5,
+      "crossVerification": 5,
+      "importance": 10.2,
+      "userFeedback": 0
+    }
+  },
+  {
+    "id": "github-ai-ml-getting-more-from-each-token-how-copilot-improves-context-handling-and-model-rou",
+    "publishedAt": "2026-06-17T19:41:46.000Z",
+    "source": "GitHub AI and ML Blog",
+    "category": "模型发布",
+    "theme": "开源工程",
+    "importance": 0.78,
+    "title": "Getting more from each token: How Copilot improves context handling and model routing",
+    "summary": "How GitHub Copilot is making more of each session go toward useful work, so your credits go further. The post Getting more from each token: How Copilot improves context handling and model routing appeared first on The GitHub Blog .",
+    "reason": "该条目来自已配置公开信息源，进入聚合流后会按信源权重、新鲜度和来源链路重新评分。",
+    "tags": [
+      "开源工程",
+      "rss",
+      "en"
+    ],
+    "image": "",
+    "userSignals": {
+      "saves": 0,
+      "clicks": 0
+    },
+    "sources": [
+      {
+        "sourceId": "github-ai-ml",
+        "name": "GitHub AI and ML Blog",
+        "type": "rss",
+        "publishedAt": "2026-06-17T19:41:46.000Z",
+        "isPrimary": false,
+        "independent": true,
+        "originalUrl": "https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing/"
+      }
+    ],
+    "originalLinks": [
+      {
+        "label": "GitHub AI and ML Blog",
+        "url": "https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing/"
+      }
+    ],
+    "score": 51,
+    "scoreBreakdown": {
+      "sourceCount": 5,
+      "sourceWeight": 16,
+      "freshness": 8,
+      "primarySource": 5,
+      "crossVerification": 5,
+      "importance": 11.7,
+      "userFeedback": 0
+    }
+  },
+  {
+    "id": "github-ai-ml-what-are-git-worktrees-and-why-should-i-use-them",
+    "publishedAt": "2026-06-16T20:58:54.000Z",
+    "source": "GitHub AI and ML Blog",
+    "category": "技巧观点",
+    "theme": "开源工程",
+    "importance": 0.78,
+    "title": "What are git worktrees, and why should I use them?",
+    "summary": "Git worktrees have been around since 2015, but it wasn't until recently they became popular. Learn what they are, how to use them, and why you might. The post What are git worktrees, and why should I use them? appeared first on The GitHub Blog .",
+    "reason": "该条目来自已配置公开信息源，进入聚合流后会按信源权重、新鲜度和来源链路重新评分。",
+    "tags": [
+      "开源工程",
+      "rss",
+      "en"
+    ],
+    "image": "",
+    "userSignals": {
+      "saves": 0,
+      "clicks": 0
+    },
+    "sources": [
+      {
+        "sourceId": "github-ai-ml",
+        "name": "GitHub AI and ML Blog",
+        "type": "rss",
+        "publishedAt": "2026-06-16T20:58:54.000Z",
+        "isPrimary": false,
+        "independent": true,
+        "originalUrl": "https://github.blog/ai-and-ml/github-copilot/what-are-git-worktrees-and-why-should-i-use-them/"
+      }
+    ],
+    "originalLinks": [
+      {
+        "label": "GitHub AI and ML Blog",
+        "url": "https://github.blog/ai-and-ml/github-copilot/what-are-git-worktrees-and-why-should-i-use-them/"
+      }
+    ],
+    "score": 51,
+    "scoreBreakdown": {
+      "sourceCount": 5,
+      "sourceWeight": 16,
+      "freshness": 8,
+      "primarySource": 5,
+      "crossVerification": 5,
+      "importance": 11.7,
+      "userFeedback": 0
+    }
+  },
+  {
+    "id": "github-ai-ml-github-copilot-cli-for-beginners-overview-of-common-slash-commands",
+    "publishedAt": "2026-06-15T20:15:31.000Z",
+    "source": "GitHub AI and ML Blog",
+    "category": "产品发布",
+    "theme": "开源工程",
+    "importance": 0.78,
+    "title": "GitHub Copilot CLI for Beginners: Overview of common slash commands",
+    "summary": "GitHub Copilot CLI for Beginners: Learn how to use slash commands to control your terminal AI agent. The post GitHub Copilot CLI for Beginners: Overview of common slash commands appeared first on The GitHub Blog .",
+    "reason": "该条目来自已配置公开信息源，进入聚合流后会按信源权重、新鲜度和来源链路重新评分。",
+    "tags": [
+      "开源工程",
+      "rss",
+      "en"
+    ],
+    "image": "",
+    "userSignals": {
+      "saves": 0,
+      "clicks": 0
+    },
+    "sources": [
+      {
+        "sourceId": "github-ai-ml",
+        "name": "GitHub AI and ML Blog",
+        "type": "rss",
+        "publishedAt": "2026-06-15T20:15:31.000Z",
+        "isPrimary": false,
+        "independent": true,
+        "originalUrl": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands/"
+      }
+    ],
+    "originalLinks": [
+      {
+        "label": "GitHub AI and ML Blog",
+        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands/"
+      }
+    ],
+    "score": 51,
+    "scoreBreakdown": {
+      "sourceCount": 5,
+      "sourceWeight": 16,
+      "freshness": 8,
+      "primarySource": 5,
+      "crossVerification": 5,
+      "importance": 11.7,
+      "userFeedback": 0
+    }
+  },
+  {
+    "id": "github-ai-ml-accelerating-researchers-and-developers-building-multilingual-ai-with-a-new-open",
+    "publishedAt": "2026-06-15T19:17:30.000Z",
+    "source": "GitHub AI and ML Blog",
+    "category": "论文研究",
+    "theme": "开源工程",
+    "importance": 0.78,
+    "title": "Accelerating researchers and developers building multilingual AI with a new open dataset",
+    "summary": "A new repository-level dataset, published on GitHub under CC0-1.0, helps researchers and developers discover multilingual developer content across READMEs, issues, and pull requests. The post Accelerating researchers and developers building multilingual AI wit",
+    "reason": "该条目来自已配置公开信息源，进入聚合流后会按信源权重、新鲜度和来源链路重新评分。",
+    "tags": [
+      "开源工程",
+      "rss",
+      "en"
+    ],
+    "image": "",
+    "userSignals": {
+      "saves": 0,
+      "clicks": 0
+    },
+    "sources": [
+      {
+        "sourceId": "github-ai-ml",
+        "name": "GitHub AI and ML Blog",
+        "type": "rss",
+        "publishedAt": "2026-06-15T19:17:30.000Z",
+        "isPrimary": false,
+        "independent": true,
+        "originalUrl": "https://github.blog/ai-and-ml/llms/accelerating-researchers-and-developers-building-multilingual-ai-with-a-new-open-dataset/"
+      }
+    ],
+    "originalLinks": [
+      {
+        "label": "GitHub AI and ML Blog",
+        "url": "https://github.blog/ai-and-ml/llms/accelerating-researchers-and-developers-building-multilingual-ai-with-a-new-open-dataset/"
+      }
+    ],
+    "score": 51,
+    "scoreBreakdown": {
+      "sourceCount": 5,
+      "sourceWeight": 16,
+      "freshness": 8,
+      "primarySource": 5,
+      "crossVerification": 5,
+      "importance": 11.7,
+      "userFeedback": 0
+    }
+  }
+]
