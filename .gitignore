@@ -3,6 +3,7 @@ dist/
 test-results/
 playwright-report/
 .playwright-mcp/
+.data/
 .DS_Store
 .env
 .env.*

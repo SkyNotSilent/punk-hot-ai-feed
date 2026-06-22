@@ -13,6 +13,7 @@ const TIME_FORMATTER = new Intl.DateTimeFormat("zh-CN", {
   hour12: false,
 });
 const DATA_BASE = `${import.meta.env.BASE_URL || "/"}data/`.replace(/\/{2,}/g, "/");
+const API_BASE = (import.meta.env.VITE_API_BASE || "").replace(/\/$/, "");
 
 const state = {
   view: "精选",
@@ -186,11 +187,14 @@ bootstrap();
 
 async function bootstrap() {
   refs.todayLabel.textContent = `${DATE_FORMATTER.format(new Date())} · 编辑部雷达`;
-  const [sources, seedStories, liveStories] = await Promise.all([
-    loadJson(`${DATA_BASE}sources.json`, []),
-    loadJson(`${DATA_BASE}seed-stories.json`, []),
-    loadJson(`${DATA_BASE}live-feed.json`, []),
-  ]);
+  const apiSnapshot = await loadApiSnapshot();
+  const [sources, seedStories, liveStories] = apiSnapshot
+    ? [apiSnapshot.sources, apiSnapshot.stories, []]
+    : await Promise.all([
+        loadJson(`${DATA_BASE}sources.json`, []),
+        loadJson(`${DATA_BASE}seed-stories.json`, []),
+        loadJson(`${DATA_BASE}live-feed.json`, []),
+      ]);
   state.sources = sources;
   const sourceMap = new Map(sources.map((source) => [source.id, source]));
   state.stories = dedupeStories([...liveStories, ...seedStories])
@@ -215,6 +219,31 @@ async function loadJson(path, fallback) {
     console.warn(`Failed to load ${path}`, error);
     return fallback;
   }
+}
+
+async function loadApiSnapshot() {
+  if (!shouldUseApi()) return null;
+  try {
+    const [sourceResponse, storyResponse] = await Promise.all([
+      fetch(`${API_BASE}/api/sources`, { cache: "no-store" }),
+      fetch(`${API_BASE}/api/stories?limit=160`, { cache: "no-store" }),
+    ]);
+    if (!sourceResponse.ok || !storyResponse.ok) return null;
+    const [sourcePayload, storyPayload] = await Promise.all([sourceResponse.json(), storyResponse.json()]);
+    if (!sourcePayload.ok || !storyPayload.ok) return null;
+    return {
+      sources: sourcePayload.sources || [],
+      stories: storyPayload.stories || [],
+    };
+  } catch {
+    return null;
+  }
+}
+
+function shouldUseApi() {
+  if (API_BASE) return true;
+  if (import.meta.env.DEV) return false;
+  return !window.location.hostname.endsWith("github.io");
 }
 
 function dedupeStories(stories) {

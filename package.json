@@ -3,13 +3,17 @@
   "version": "0.1.0",
   "private": true,
   "type": "module",
+  "engines": {
+    "node": ">=22.13"
+  },
   "scripts": {
     "dev": "vite --host 127.0.0.1 --port 4173",
     "build": "vite build",
     "preview": "vite preview --host 127.0.0.1 --port 4173",
-    "start": "vite preview --host 0.0.0.0 --port ${PORT:-4173}",
+    "start": "node server/index.mjs",
     "fetch:sources": "node scripts/fetch-feeds.mjs",
     "verify:sources": "node scripts/verify-sources.mjs",
+    "smoke:api": "npm run build && node scripts/smoke-api.mjs",
     "test": "playwright test",
     "score": "node scripts/score-project.mjs"
   },

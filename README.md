@@ -21,6 +21,12 @@ https://skynotsilent.github.io/punk-hot-ai-feed/
 
 ```bash
 npm run build
+npm run start
+```
+
+纯前端预览仍可使用：
+
+```bash
 npm run preview
 ```
 
@@ -35,7 +41,7 @@ npm run preview
 数据管线：
 
 ```text
-sources.json -> verify:sources -> fetch:sources -> normalize -> dedupe -> score -> render
+sources.json -> verify/fetch -> normalize -> dedupe -> score -> SQLite cache -> API -> render
 ```
 
 验证公开源：
@@ -51,6 +57,43 @@ npm run fetch:sources
 ```
 
 当前配置包含 20+ 个候选源，最近一次验证结果会写回 `sources.json`。当前至少 10 个源可访问并可解析条目，`live-feed.json` 已由多个公开源生成。
+
+## 线上 API 与数据库缓存
+
+生产启动命令 `npm run start` 会启动 Node 服务，同时提供静态页面和 API：
+
+- `GET /api/health`：服务状态、故事数、信源数、最近刷新时间。
+- `GET /api/stories?category=模型发布&q=Agent&limit=120`：从 SQLite 缓存读取内容。
+- `GET /api/sources`：读取信源配置和验证状态。
+- `GET /api/reports/daily`：日报聚合，另支持 `weekly`、`monthly`。
+- `POST /api/refresh`：触发公开源刷新，若设置 `REFRESH_TOKEN`，需要 `Authorization: Bearer <token>`。
+
+缓存使用 Node 内置 SQLite，默认路径：
+
+```text
+.data/punk-hot.sqlite
+```
+
+常用环境变量：
+
+```bash
+PORT=4173
+DB_PATH=.data/punk-hot.sqlite
+REFRESH_INTERVAL_MINUTES=60
+STARTUP_REFRESH=true
+REFRESH_TOKEN=change-me
+PUNK_HOT_SOURCE_LIMIT=8
+PUNK_HOT_ITEMS_PER_SOURCE=6
+PUNK_HOT_FETCH_TIMEOUT_MS=12000
+```
+
+本地 API smoke test：
+
+```bash
+npm run smoke:api
+```
+
+前端在生产环境会优先读取同源 API；GitHub Pages 和 Vite dev 环境会自动退回 `public/data/*.json` 静态数据。
 
 ## 热度评分机制
 
@@ -125,6 +168,8 @@ npm run score
 
 - Build command: `npm run build`
 - Start command: `npm run start`
+- Runtime: Node `>=22.13`
+- Optional variables: `REFRESH_TOKEN`、`REFRESH_INTERVAL_MINUTES`、`DB_PATH`
 
 本地 CLI 登录后可执行：
 
