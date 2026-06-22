@@ -12,6 +12,7 @@ const TIME_FORMATTER = new Intl.DateTimeFormat("zh-CN", {
   minute: "2-digit",
   hour12: false,
 });
+const DATA_BASE = `${import.meta.env.BASE_URL || "/"}data/`.replace(/\/{2,}/g, "/");
 
 const state = {
   view: "精选",
@@ -186,9 +187,9 @@ bootstrap();
 async function bootstrap() {
   refs.todayLabel.textContent = `${DATE_FORMATTER.format(new Date())} · 编辑部雷达`;
   const [sources, seedStories, liveStories] = await Promise.all([
-    loadJson("/data/sources.json", []),
-    loadJson("/data/seed-stories.json", []),
-    loadJson("/data/live-feed.json", []),
+    loadJson(`${DATA_BASE}sources.json`, []),
+    loadJson(`${DATA_BASE}seed-stories.json`, []),
+    loadJson(`${DATA_BASE}live-feed.json`, []),
   ]);
   state.sources = sources;
   const sourceMap = new Map(sources.map((source) => [source.id, source]));
