@@ -11,6 +11,12 @@ npm run dev
 
 打开 `http://127.0.0.1:4173/`。
 
+当前 GitHub Pages 线上预览：
+
+```text
+https://skynotsilent.github.io/punk-hot-ai-feed/
+```
+
 生产构建：
 
 ```bash
@@ -128,3 +134,5 @@ railway up
 ```
 
 部署后用线上 URL 打开首页，并运行必要的 smoke check。
+
+当前 Railway 状态：项目已具备部署配置，但 CLI OAuth 需要重新授权后才能执行 `railway init/up`。在 Railway 授权恢复前，GitHub Pages 地址可作为已验证的线上预览。
