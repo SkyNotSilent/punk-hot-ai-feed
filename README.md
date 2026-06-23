@@ -11,10 +11,11 @@ npm run dev
 
 打开 `http://127.0.0.1:4173/`。
 
-当前 GitHub Pages 线上预览：
+线上地址：
 
 ```text
-https://skynotsilent.github.io/punk-hot-ai-feed/
+Railway 生产站：https://punk-hot-ai-feed-production.up.railway.app/
+GitHub Pages 预览：https://skynotsilent.github.io/punk-hot-ai-feed/
 ```
 
 生产构建：
@@ -72,6 +73,12 @@ npm run fetch:sources
 
 ```text
 .data/punk-hot.sqlite
+```
+
+Railway 生产环境已挂载持久化 volume：
+
+```text
+/data -> /data/punk-hot.sqlite
 ```
 
 常用环境变量：
@@ -160,7 +167,7 @@ npm test
 npm run score
 ```
 
-当前完成度评分：`93/100`。
+当前完成度评分：`95/100`。
 
 ## Railway 部署
 
@@ -180,4 +187,22 @@ railway up
 
 部署后用线上 URL 打开首页，并运行必要的 smoke check。
 
-当前 Railway 状态：项目已具备部署配置，但 CLI OAuth 需要重新授权后才能执行 `railway init/up`。在 Railway 授权恢复前，GitHub Pages 地址可作为已验证的线上预览。
+当前 Railway 生产部署：
+
+- Project: `punk-hot-ai-feed`
+- Service: `punk-hot-ai-feed`
+- URL: `https://punk-hot-ai-feed-production.up.railway.app/`
+- Health: `https://punk-hot-ai-feed-production.up.railway.app/api/health`
+- Volume: `punk-hot-ai-feed-volume` mounted at `/data`
+- Runtime cache: `/data/punk-hot.sqlite`
+- Refresh: startup refresh enabled, scheduled refresh every 60 minutes
+
+最近一次线上验证结果：
+
+```text
+sourceCount=24
+verifiedSourceCount=11
+storyCount=78
+dbPath=/data/punk-hot.sqlite
+domainStatus=ACTIVE
+```

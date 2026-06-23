@@ -38,7 +38,7 @@ const result = {
   improvedNext: [
     sources.filter((source) => source.verified).length < 10 ? "继续替换失效 RSS 源，保证 10+ 个源稳定可抓。" : null,
     live.length < 15 ? "增加抓取源数量或每源条目数，让线上首屏更接近实时数据。" : null,
-    "Railway OAuth 重新授权后，部署 Node API 服务并验证线上 /api/health。",
+    "后续可绑定自定义域名、增加更多高权重一手源，并补充线上刷新任务的可观测告警。",
   ].filter(Boolean),
 };
 
